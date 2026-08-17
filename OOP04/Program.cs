@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             #region theoritical questions
+
             //            /** Q1.
             //             * a.Abstraction is hiding complex implementation details and exposing only the essential features of an object using abstract classes and interfaces.
             //             * b.It reduces code complexity, enhances maintainability, and enforces contracts across derived classes.  
